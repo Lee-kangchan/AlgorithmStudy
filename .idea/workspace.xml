@@ -1,22 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8026a46c-498f-4fae-856c-f29c1b6eee22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/Main.java" afterDir="false" />
+    <list default="true" id="8026a46c-498f-4fae-856c-f29c1b6eee22" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Active1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/greedy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/greedy5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/greedy6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/hash3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/stack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/stack3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/greedy4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/solution1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,33 +65,106 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="basic.Main" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abc\AllWorkBench\study\algorithmStudy\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.stack3">
+    <configuration name="greedy6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.greedy6" />
       <module name="algorithmStudy" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="hash3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.hash3" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.stack1" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.stack2" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.stack3" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.greedy6" />
+      <item itemvalue="Application.hash3" />
+      <item itemvalue="Application.stack1" />
+      <item itemvalue="Application.stack2" />
+      <item itemvalue="Application.stack3" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.stack3" />
+        <item itemvalue="Application.stack2" />
+        <item itemvalue="Application.stack1" />
+        <item itemvalue="Application.hash3" />
+        <item itemvalue="Application.greedy6" />
       </list>
     </recent_temporary>
   </component>
@@ -69,14 +176,77 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609995398124</updated>
-      <workItem from="1609995399669" duration="139000" />
+      <workItem from="1609995399669" duration="17618000" />
+      <workItem from="1610075746816" duration="32541000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1609995569822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609995569822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1609996291618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609996291618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1610081655438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610081655438" />
+    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610089895256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610089895256" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1609995442347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609995442347" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1610112973225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973225" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1610112973225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973225" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1610112973224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973224" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1610112973225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973225" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609995696873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609995696873" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610108386082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610108386082" />
   </component>
 </project>
