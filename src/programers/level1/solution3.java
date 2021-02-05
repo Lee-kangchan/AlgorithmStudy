@@ -1,7 +1,5 @@
 package programers.level1;
 
-import junit.framework.Assert;
-import org.junit.Test;
 
 //2016년
 public class solution3 {
