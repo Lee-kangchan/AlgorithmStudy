@@ -19,26 +19,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8026a46c-498f-4fae-856c-f29c1b6eee22" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Active1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BruteForce/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/greedy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/greedy5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/greedy6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/hash3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/stack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/stack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/stack3.java" afterDir="false" />
+    <list default="true" id="8026a46c-498f-4fae-856c-f29c1b6eee22" name="Default Changelist" comment="숫자 게">
+      <change afterPath="$PROJECT_DIR$/src/programers/level3/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programers/level3/SummerWinter_coding3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/greedy4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Active1/src/q10039/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q10039/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Active1/src/q10817/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q10817/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Active1/src/q10996/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q10996/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Active1/src/q2446/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q2446/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Active1/src/q2523/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q2523/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Active1/src/q5543/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q5543/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExhaustiveSearch/ExhaustiveSearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/ExhaustiveSearch/ExhaustiveSearch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExhaustiveSearch/ExhaustiveSearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/ExhaustiveSearch/ExhaustiveSearch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fullSearch/PracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/fullSearch/PracticeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/graph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/graph/graph1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/greedy6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hash/Hash1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/Hash1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hash/Hash2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/Hash2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hash/hash3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/hash3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hash/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heap/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/heap/Heap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/sort/Sort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/Sort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/sort/Sort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stack/solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stack/stack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/stack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stack/stack2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stackQueue/StackQue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stackQueue/StackQue1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +63,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1mj7xJzGbowV6ilUbd1tpGfDMLI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,23 +87,44 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\abc\AllWorkBench\study\algorithmStudy\src" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="programers.level3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.stack3">
-    <configuration name="greedy6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.greedy6" />
+  <component name="RunManager" selected="Application.SummerWinter_coding3">
+    <configuration name="Challenge_Season1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programers.level3.Challenge_Season1" />
       <module name="algorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="programers.level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hash3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.hash3" />
+    <configuration name="DFS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programers.level3.DFS2" />
       <module name="algorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="programers.level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.stack1" />
+    <configuration name="DP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programers.level3.DP3" />
       <module name="algorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="programers.level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.stack2" />
+    <configuration name="Heap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programers.level3.Heap1" />
       <module name="algorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="programers.level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.stack3" />
+    <configuration name="SummerWinter_coding3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programers.level3.SummerWinter_coding3" />
       <module name="algorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="programers.level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,19 +198,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.greedy6" />
-      <item itemvalue="Application.hash3" />
-      <item itemvalue="Application.stack1" />
-      <item itemvalue="Application.stack2" />
-      <item itemvalue="Application.stack3" />
+      <item itemvalue="Application.Challenge_Season1" />
+      <item itemvalue="Application.Heap1" />
+      <item itemvalue="Application.DFS2" />
+      <item itemvalue="Application.DP3" />
+      <item itemvalue="Application.SummerWinter_coding3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stack3" />
-        <item itemvalue="Application.stack2" />
-        <item itemvalue="Application.stack1" />
-        <item itemvalue="Application.hash3" />
-        <item itemvalue="Application.greedy6" />
+        <item itemvalue="Application.SummerWinter_coding3" />
+        <item itemvalue="Application.DP3" />
+        <item itemvalue="Application.DFS2" />
+        <item itemvalue="Application.Challenge_Season1" />
+        <item itemvalue="Application.Heap1" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +224,17 @@
       <updated>1609995398124</updated>
       <workItem from="1609995399669" duration="17618000" />
       <workItem from="1610075746816" duration="32541000" />
+      <workItem from="1612252201164" duration="7443000" />
+      <workItem from="1612317965600" duration="16044000" />
+      <workItem from="1612410286892" duration="9107000" />
+      <workItem from="1612497499280" duration="9318000" />
+      <workItem from="1612529900901" duration="91000" />
+      <workItem from="1612753129033" duration="14393000" />
+      <workItem from="1612791087012" duration="199000" />
+      <workItem from="1612845656191" duration="4693000" />
+      <workItem from="1612962278024" duration="2184000" />
+      <workItem from="1613034014845" duration="2562000" />
+      <workItem from="1613304580716" duration="6764000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609995569822</created>
@@ -193,8 +250,116 @@
       <option name="project" value="LOCAL" />
       <updated>1609996291618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2*n 타일링">
+      <created>1612266624468</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612266624468</updated>
+    </task>
+    <task id="LOCAL-00004" summary="동적 계획법 N으로 표현">
+      <created>1612350882838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612350882838</updated>
+    </task>
+    <task id="LOCAL-00005" summary="월간 코드 챌린지 시즌 1 풍선 터트리기">
+      <created>1612350901086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612350901086</updated>
+    </task>
+    <task id="LOCAL-00006" summary="이중우선순위큐">
+      <created>1612518956954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612518956954</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Greedy 알고리즘 : 단속 카메라">
+      <created>1612518991994</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612518991994</updated>
+    </task>
+    <task id="LOCAL-00008" summary="동적 계획법 : 정수 삼각형">
+      <created>1612519085906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612519085906</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2016년">
+      <created>1612519170032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612519170032</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DFS 단어변환">
+      <created>1612519198012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612519198012</updated>
+    </task>
+    <task id="LOCAL-00011" summary="BFS 단어변환">
+      <created>1612519215823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612519215823</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BFS 여행경로">
+      <created>1612791113575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612791113575</updated>
+    </task>
+    <task id="LOCAL-00013" summary="DFS 여행경로">
+      <created>1612791192141</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612791192141</updated>
+    </task>
+    <task id="LOCAL-00014" summary="동적계획법 -&gt; 등굣길">
+      <created>1612791210992</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612791210992</updated>
+    </task>
+    <task id="LOCAL-00015" summary="동적계획법 -&gt; 등굣길">
+      <created>1612791255209</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612791255210</updated>
+    </task>
+    <task id="LOCAL-00016" summary="방문길이">
+      <created>1612968110312</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612968110312</updated>
+    </task>
+    <task id="LOCAL-00017" summary="숫자 게임">
+      <created>1613044896110</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1613044896110</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -206,47 +371,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="2*n 타일링" />
+    <MESSAGE value="동적 계획법 N으로 표현" />
+    <MESSAGE value="월간 코드 챌린지 시즌 1 풍선 터트리기" />
+    <MESSAGE value="이중우선순위큐" />
+    <MESSAGE value="Greedy 알고리즘 : 단속 카메라" />
+    <MESSAGE value="동적 계획법 : 정수 삼각형" />
+    <MESSAGE value="2016년" />
+    <MESSAGE value="DFS 단어변환" />
+    <MESSAGE value="BFS 단어변" />
+    <MESSAGE value="BFS 단어변환" />
+    <MESSAGE value="BFS 여행경로" />
+    <MESSAGE value="DFS 여행경로" />
+    <MESSAGE value="동적계획법 -&gt; 등굣길" />
+    <MESSAGE value="방문길이" />
+    <MESSAGE value="숫자 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자 게임" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1610081655438">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610081655438" />
-    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610089895256">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610089895256" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1609995442347">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609995442347" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1610112973225">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973225" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1610112973225">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973225" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1610112973224">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973224" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1610112973225">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610112973225" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609995696873">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609995696873" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610108386082">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610108386082" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
