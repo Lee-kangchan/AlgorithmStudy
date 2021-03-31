@@ -4,29 +4,26 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashSet;
 
+// 스타 수열
 public class Challenge_Season1_1 {
     public int solution(int[] a) {
         int answer = -1;
         HashSet<Integer> set = new HashSet<>();
-        if(a.length == 1){
-            return 0;
-        }
-        if(a.length <= 3){
-            return 1;
-        }
+        int arr[] = new int[a.length+1];
         for(int i = 0 ; i <a.length ; i++){
-            set.add(a[i]);
+            arr[a[i]]++;
         }
-        for(Integer i : set) {
+        for(int i = 0 ; i < arr.length ; i ++) {
+            if(arr[i] == 0) continue;
+            if(arr[i] <= answer) continue;
             int count =0;
-            for (int j = 0; j < a.length; j++) {
-                if(a[j] ==i){count++;}
-                if(j+1 < a.length && a[j+1] ==i) {
+            for (int j = 0; j < a.length -1 ; j++) {
+                if(a[j] !=i &&a[j+1] != i) continue;
+                if(a[j] == a[j+1]) continue;
                     count++;
                     j++;
-                }
             }
-            answer = Math.max(count, answer);
+            answer = Math.max(answer, count);
         }
         return answer*2;
     }
