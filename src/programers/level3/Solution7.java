@@ -12,7 +12,7 @@ public class Solution7 {
             return b;
         }
         for(int i = 3 ; i <= n ; i++){
-            num = a+ b;
+            num = (a+ b) %1234567;
             a = b;
             b = num;
         }
