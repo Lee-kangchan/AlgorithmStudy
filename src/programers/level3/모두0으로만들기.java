@@ -1,58 +1,44 @@
 package programers.level3;
 
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
+// 월간 챌린지 시즌 2 모두 0으로 만들기
+//Q : ArrayList는 안되고 왜 List는 가능할까 ?
 public class 모두0으로만들기 {
     public long solution(int[] a, int[][] edges) {
-        long answer = 0;
-        int check = 0;
-        for(int i = 0 ; i < a.length; i ++){
+        long answer = 0 ;
+        long[] data = new long[a.length];
+        int check = 0 ;
+        for(int i = 0 ; i <a.length; i++){
             check += a[i];
+            data[i] = a[i];
         }
-        if(check !=0){
-            return -1;
+        if(check != 0) return -1;
+
+        ArrayList<Integer> list[] = new ArrayList[a.length];
+        for(int i = 0 ; i <a.length; i++){
+            list[i] = new ArrayList<>();
         }
-        Queue<Integer> queue = new LinkedList<>();
-        Stack<e> stack = new Stack<>();
-        queue.add(0);
-        boolean[] bool = new boolean[edges.length];
-        while(!queue.isEmpty()){
-            int data =queue.poll();
-            for(int i = 0 ; i < edges.length; i ++){
-                if(!bool[i] &&( edges[i][0] ==data || edges[i][1] == data)){
-                    bool[i] = true;
-                    if(edges[i][0] == data){
-                        queue.add(edges[i][1]);
-                        stack.add(new e(data,edges[i][1]));
-                    }else if(edges[i][1] == data){
-                        queue.add(edges[i][0]);
-                        stack.add(new e(data, edges[i][0]));
-                    }
-                }
+
+        for(int i = 0 ; i < edges.length; i++){
+            int[] e = edges[i];
+            list[e[0]].add(e[1]);
+            list[e[1]].add(e[0]);
+        }
+        return solve(list, data, 0 , -1);
+    }
+    public static long solve(List<Integer>[] list, long[] data, int now, int pre){
+        long l = 0 ;
+
+        for(int i = 0 ; i < list[now].size(); i++){
+            int next = list[now].get(i);
+            if(next != pre){
+                l += solve(list, data, next, now);
             }
         }
-        while(!stack.isEmpty()){
-            e data = stack.peek();
+        if(pre != -1) data[pre] += data[now];
 
-            System.out.println(data.x + ", " + data.y);
-            stack.pop();
-            System.out.println(a[data.x] + "- " +a[data.y]);
-            a[data.x] = a[data.x] + a[data.y];
-            System.out.println(a[data.x]);
-            answer = answer + Math.abs(a[data.y]);
-        }
-        return answer;
-    }
-    class e{
-        int x;
-        int y;
-
-        public e(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
+        return l + Math.abs(data[now]);
     }
     public static void main(String[] args) {
         모두0으로만들기 s = new 모두0으로만들기();
