@@ -58,4 +58,3 @@ public class 순위검색 {
     }
 
 }
-3
