@@ -20,8 +20,8 @@ public class 교점에별만들기 {
             for(int j = i+1 ; j < line.length; j++){
                 long low = (((long)line[i][0] * (long)line[j][1]) - ((long)line[i][1] * (long)line[j][0]));
                 if(low == 0 ) continue;
-                double X= (double) (((long)line[i][1] * (long)line[j][2]) - ((long)line[i][2] * (long)line[j][1])) / (double) low;
-                double Y= (double) (((long)line[i][2] * (long)line[j][0]) - ((long)line[i][0] * (long)line[j][2])) / (double) low;
+                double X= (double) ((long)(line[i][1] * line[j][2]) - (line[i][2] * line[j][1])) / (double) low;
+                double Y= (double) ((line[i][2] * line[j][0]) - (line[i][0] * line[j][2])) / (double) low;
                 if(X % 1 != 0 || Y % 1 != 0) continue;
 
                 List<Integer> data = Arrays.asList((int)X,(int)Y);
