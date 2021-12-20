@@ -1,32 +1,22 @@
 package programers.level3;
 
 public class 공시뮬레이션 {
+    long[][] mab;
     public long solution(int n, int m, int x, int y, int[][] queries) {
-        long answer = -1;
-        int[][] mab = new int[n][m];
+        mab = new long[n][m];
         for(int i = 0 ; i < n; i++){
             for(int j = 0 ; j < m ; j++){
                 mab[i][j] = 1;
             }
         }
         for(int i = 0 ; i < queries.length; i++){
-            mab = query(mab, queries[i][0], queries[i][1]);
-
-            System.out.println("_____________________");
-            for(int j =0 ; j < mab.length;j++){
-                for(int k =0  ; k < mab[0].length; k++){
-                    System.out.print(mab[j][k]+ " ");
-                }
-                System.out.println();
-            }
-
-            System.out.println("_____________________");
+            query(queries[i][0], queries[i][1]);
         }
         return mab[x][y];
     }
 
     // 0 왼쪽 1 오른쪽 2 위로 3 아래로
-    public int[][] query(int[][] mab, int method, int count){
+    public void query(int method, int count){
         if(method ==0){
             for(int i = 0 ; i < mab.length; i++){
                 for(int j = 1 ; j < mab[0].length; j++){
@@ -63,7 +53,7 @@ public class 공시뮬레이션 {
                 }
             }
         }
-        return mab;
+        return;
     }
 
     public static void main(String[] args) {
