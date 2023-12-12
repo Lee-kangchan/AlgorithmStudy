@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,40 +23,296 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8026a46c-498f-4fae-856c-f29c1b6eee22" name="Default Changelist" comment="숫자 게">
-      <change afterPath="$PROJECT_DIR$/src/programers/level3/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programers/level3/SummerWinter_coding3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/old/programers/stack/solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renewal/silver5/다리놓기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Active1/src/q10039/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q10039/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Active1/src/q10817/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q10817/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Active1/src/q10996/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q10996/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Active1/src/q2446/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q2446/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Active1/src/q2523/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q2523/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Active1/src/q5543/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Active1/src/q5543/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExhaustiveSearch/ExhaustiveSearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/ExhaustiveSearch/ExhaustiveSearch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExhaustiveSearch/ExhaustiveSearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/ExhaustiveSearch/ExhaustiveSearch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfsbfs/dfsbfs3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fullSearch/PracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/fullSearch/PracticeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/graph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/graph/graph1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greedy/greedy6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/greedy/greedy6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hash/Hash1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/Hash1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hash/Hash2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/Hash2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hash/hash3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/hash3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hash/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/hash/solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/heap/Heap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/sort/Sort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/sort/Sort2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stack/solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stack/stack1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/stack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stack/stack2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stackQueue/StackQue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programers/stackQueue/StackQue1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BruteForce/src/q1018/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/src/q1018/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BruteForce/src/q2231/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/src/q2231/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BruteForce/src/q2798/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/src/q2798/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BruteForce/src/q7568/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/src/q7568/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Active/src/q10039/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Active/src/q10039/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Active/src/q10817/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Active/src/q10817/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Active/src/q10996/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Active/src/q10996/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Active/src/q2446/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Active/src/q2446/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Active/src/q2523/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Active/src/q2523/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Active/src/q5543/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Active/src/q5543/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q14888/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q14888/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q14889/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q14889/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q15649/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q15649/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q15650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q15650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q15651/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q15651/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q15652/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q15652/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q2580/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q2580/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q2580/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q2580/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/BackTracking/src/q9663/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/BackTracking/src/q9663/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1002/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1002/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1011/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1011/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1011/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1011/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q10250/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q10250/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1085/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1085/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1193/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1193/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1712/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1712/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1929/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1929/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q1978/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q1978/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q2292/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q2292/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q2581/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q2581/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q2775/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q2775/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q2869/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q2869/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q3009/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q3009/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q3053/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q3053/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q4153/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q4153/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q4948/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q4948/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Math/src/q9020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Math/src/q9020/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Recursion/src/q10870/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Recursion/src/q10870/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Recursion/src/q10872/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Recursion/src/q10872/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Recursion/src/q11729/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Recursion/src/q11729/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Recursion/src/q2447/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Recursion/src/q2447/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Recursion/src/더하기123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Recursion/src/더하기123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Recursion/src/암호만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Recursion/src/암호만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Strings/문자열반복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/Strings/문자열반복.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/While/src/q10951/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/While/src/q10951/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/While/src/q10952/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/While/src/q10952/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/While/src/q1110/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/While/src/q1110/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/dp/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/dp/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/dp/신나는함수실행.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/dp/신나는함수실행.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/dp/정수삼각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/dp/정수삼각형.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/dp/타일01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/dp/타일01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/dp/파도반수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/dp/파도반수열.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/dp/파보나치함수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/dp/파보나치함수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/greedy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/greedy/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/greedy/동전0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/greedy/동전0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/greedy/회의실배정.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/greedy/회의실배정.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/ifs/사분면고르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/ifs/사분면고르기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/ifs/알람시계.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/ifs/알람시계.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/numberTheoryCombinatorics/배수와약수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/numberTheoryCombinatorics/배수와약수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/numberTheoryCombinatorics/약수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/numberTheoryCombinatorics/약수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/numberTheoryCombinatorics/최대공약수와최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/numberTheoryCombinatorics/최대공약수와최소공배수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/stack/괄호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/stack/괄호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/stack/스택.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/stack/스택.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/stack/오큰수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/stack/오큰수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/stack/제로.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/stack/제로.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/twopointer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/baekjoon/twopointer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q10871/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q10871/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q10950/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q10950/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q11021/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q11021/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q11022/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q11022/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q1330/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q1330/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q15552/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q15552/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q2438/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q2438/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q2439/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q2439/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q2739/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q2739/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q2741/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q2741/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q2742/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q2742/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q2753/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q2753/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q8393/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q8393/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/src/q9498/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/basic/src/q9498/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/busanCodingExample/Busan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/busanCodingExample/Busan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/busanCodingExample/Busan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/busanCodingExample/Busan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/UTC2021/solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/UTC2021/solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/codeChallenge/Setember1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/codeChallenge/Setember1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/codeChallenge/Setember2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/codeChallenge/Setember2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/codeChallenge/Setember3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/codingTest/codeChallenge/Setember3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/ExhaustiveSearch/ExhaustiveSearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/ExhaustiveSearch/ExhaustiveSearch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/ExhaustiveSearch/ExhaustiveSearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/ExhaustiveSearch/ExhaustiveSearch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/dfsbfs/dfsbfs1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/dfsbfs/dfsbfs1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/dfsbfs/dfsbfs2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/dfsbfs/dfsbfs3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/dfsbfs/dfsbfs3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/fullSearch/PracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/fullSearch/PracticeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/graph/graph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/graph/graph1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/greedy/greedy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/greedy/greedy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/greedy/greedy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/greedy/greedy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/greedy/greedy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/greedy/greedy3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/greedy/greedy4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/greedy/greedy4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/greedy/greedy5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/greedy/greedy5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/greedy/greedy6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/greedy/greedy6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/hash/Hash1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/hash/Hash1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/hash/Hash2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/hash/Hash2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/hash/hash3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/hash/hash3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/hash/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/hash/solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/heap/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/heap/Heap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2018_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2018_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2018_blind2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2018_blind2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2018_blind3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2018_blind3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2019_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2019_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2019_intership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2019_intership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2020_intership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2020_intership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/kakao2021_build.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/kakao2021_build.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/solution9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/summer_winter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/summer_winter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/로또의최고순위와최저순위.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/로또의최고순위와최저순위.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/숫자문자열과영단어.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/숫자문자열과영단어.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/약수의개수와덧셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/약수의개수와덧셈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/없는숫자더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/없는숫자더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level1/월간코드챌린지_시즌2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level1/월간코드챌린지_시즌2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/challenge_season1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/challenge_season1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/challenge_season1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/challenge_season1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2017.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2018_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2018_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2018_blind2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2018_blind2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2018_blind3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2018_blind3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2019_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2019_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2019_intership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2019_intership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2020_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2020_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao2021_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao2021_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao_blind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao_blind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/kakao_intership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/kakao_intership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/solution9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/summer_winter_coding2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/summer_winter_coding2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/summer_winter_coding2018_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/summer_winter_coding2018_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/summer_winter_coding2018_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/summer_winter_coding2018_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/summer_winter_coding2018_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/summer_winter_coding2018_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/tipstown2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/tipstown2017.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/거리두기확인하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/거리두기확인하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/게임맵최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/게임맵최단거리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/경주로건설.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/경주로건설.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/뉴스클러스트링.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/뉴스클러스트링.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/두개이하로다른비트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/두개이하로다른비트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/빛의경로사이클.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/빛의경로사이클.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/순위검색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/순위검색.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/오픈채팅방.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/오픈채팅방.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/월간코드챌린지_시즌2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/월간코드챌린지_시즌2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/캐시.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/캐시.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/프렌즈4블록.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/프렌즈4블록.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level2/행렬테두리회전하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level2/행렬테두리회전하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/BFS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/BFS1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/BFS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/BFS2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/BS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/BS1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Challenge_Season1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Challenge_Season1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Challenge_Season1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Challenge_Season1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/DFS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/DFS1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/DFS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/DFS2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/DP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/DP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/DP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/DP2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/DP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/DP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Greedy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Greedy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Heap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/Solution8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/SummerWinter_coding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/SummerWinter_coding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/SummerWinter_coding2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/SummerWinter_coding2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/SummerWinter_coding3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/SummerWinter_coding3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/SummerWinter_coding4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/SummerWinter_coding4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/공시뮬레이션.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/공시뮬레이션.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/다단계칫솔판매.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/다단계칫솔판매.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/모두0으로만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/모두0으로만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/보석쇼핑.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/보석쇼핑.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/불량사용자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/불량사용자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/블록이동하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/블록이동하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/스티커모으기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/스티커모으기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/옮기기110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/옮기기110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/자물쇠와열쇠.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/자물쇠와열쇠.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/징검다리건너기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/징검다리건너기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/표편집.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/표편집.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level3/합승택시요금.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level3/합승택시요금.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level4/동굴탐험.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level4/동굴탐험.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/level4/호텔방배정.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/level4/호텔방배정.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/sort/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/sort/Sort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/sort/Sort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/sort/Sort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/stack/solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/stack/stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/stack/stack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/stack/stack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/stack/stack2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/stackQueue/StackQue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/stackQueue/StackQue1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week1/부족한금액계산하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week1/부족한금액계산하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week10/교점에별만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week10/교점에별만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week11/아이템줍기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week11/아이템줍기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week12/피로도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week12/피로도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week2/상호평가.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week2/상호평가.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week3/퍼즐조각채우기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week3/퍼즐조각채우기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week4/직업군추천하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week4/직업군추천하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week5/모음사전.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week5/모음사전.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week6/복서정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week6/복서정렬하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week7/입실퇴실.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week7/입실퇴실.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week8/최소직사각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week8/최소직사각형.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programers/weekly/week9/전력망을둘로나누기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/programers/weekly/week9/전력망을둘로나누기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/DevMatchingTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/DevMatchingTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/DevMatchingTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/DevMatchingTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/DevmatchingTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/DevmatchingTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/KTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/KTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/KTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/KTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/KTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/KTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/KTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/KTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/devMatchingFinal/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/devMatchingFinal/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/devMatchingFinal/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/devMatchingFinal/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/devMatchingFinal/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/devMatchingFinal/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tranbee/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/tranbee/solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tranbee/solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/tranbee/solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/tranbee/solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/tranbee/solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/십월간테스트1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/십월간테스트1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/십월간테스트2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/test/십월간테스트2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/basic1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/tree/basic1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +323,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,33 +339,31 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="1mj7xJzGbowV6ilUbd1tpGfDMLI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\abc\AllWorkBench\study\algorithmStudy\src" />
@@ -118,72 +375,7 @@
       <recent name="programers.level3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SummerWinter_coding3">
-    <configuration name="Challenge_Season1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programers.level3.Challenge_Season1" />
-      <module name="algorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programers.level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programers.level3.DFS2" />
-      <module name="algorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programers.level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programers.level3.DP3" />
-      <module name="algorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programers.level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Heap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programers.level3.Heap1" />
-      <module name="algorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programers.level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SummerWinter_coding3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programers.level3.SummerWinter_coding3" />
-      <module name="algorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programers.level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.다리놓기">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -197,20 +389,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="다리놓기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="renewal.silver5.다리놓기" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="renewal.silver5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge_Season1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.programers.level3.Challenge_Season1" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.programers.level3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.programers.level3.DFS2" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.programers.level3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.programers.level3.DP3" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.programers.level3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummerWinter_coding3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.programers.level3.SummerWinter_coding3" />
+      <module name="algorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.programers.level3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.다리놓기" />
       <item itemvalue="Application.Challenge_Season1" />
-      <item itemvalue="Application.Heap1" />
       <item itemvalue="Application.DFS2" />
       <item itemvalue="Application.DP3" />
       <item itemvalue="Application.SummerWinter_coding3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.다리놓기" />
         <item itemvalue="Application.SummerWinter_coding3" />
         <item itemvalue="Application.DP3" />
         <item itemvalue="Application.DFS2" />
         <item itemvalue="Application.Challenge_Season1" />
-        <item itemvalue="Application.Heap1" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +492,7 @@
       <workItem from="1612962278024" duration="2184000" />
       <workItem from="1613034014845" duration="2562000" />
       <workItem from="1613304580716" duration="6764000" />
+      <workItem from="1702386666294" duration="5168000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609995569822</created>
@@ -371,7 +629,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
